@@ -1,0 +1,4 @@
+﻿  Main.cpp
+D:\NYU\Syllabus\Spring 2020\Big Data\Week3\CSVReader\Project1\csv.h(173,49): warning C4244: 'return': conversion from 'std::streamsize' to 'int', possible loss of data
+D:\NYU\Syllabus\Spring 2020\Big Data\Week3\CSVReader\Project1\csv.h(189,62): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Project1.vcxproj -> D:\NYU\Syllabus\Spring 2020\Big Data\Week3\CSVReader\Debug\Project1.exe
